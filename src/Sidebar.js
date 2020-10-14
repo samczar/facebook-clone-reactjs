@@ -9,6 +9,7 @@ import {
 } from '@material-ui/icons'
 import React from 'react'
 import SidebarRow from './SidebarRow'
+import './Sidebar.css'
 
 function Sidebar() {
 	return (
